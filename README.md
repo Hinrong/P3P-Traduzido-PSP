@@ -14,6 +14,7 @@ A tradução funciona no PSP, PPSSPP e no PS Vita via Adrenaline.
 # 📥 DOWNLOAD
 
 ## 👉 [CLIQUE AQUI PARA BAIXAR O PATCH](https://github.com/Ahtheerr/P3P-Instalador-Tradu-o/releases/tag/Instalador) 👈
+*(Certifique-se de baixar o arquivo certo na seção "Assets", e não o zip do código)*
 
 ---
 
