@@ -38,7 +38,7 @@ Se tiver problemas com o executável, siga estes passos:
 # 👥Créditos
 
 ## Equipe Atlantis
-- 💬 Discord para reportar erros ou bater papo: discord.gg/tM7QZDnWgv
+- 💬 Discord para reportar erros ou bater papo: https://discord.gg/tM7QZDnWgv
 - 🌐 Twitter: https://x.com/AtlantisP3P
 
 ## Phantasie Translate
