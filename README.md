@@ -78,6 +78,7 @@ Se tiver problemas com o executável, siga estes passos:
 - JamesEdw
 - Lorde Guigas
 - Panamericano
+- Kall
 
 ## Designers Gráficos
 - Zeros7
