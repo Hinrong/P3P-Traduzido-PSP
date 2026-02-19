@@ -13,8 +13,8 @@ A tradução funciona no PSP, PPSSPP e no PS Vita via Adrenaline.
 
 # 📥 DOWNLOAD
 
-## 👉 [CLIQUE AQUI PARA BAIXAR O PATCH](https://github.com/Ahtheerr/P3P-Instalador-Tradu-o/releases/tag/Instalador) 👈
-*(Certifique-se de baixar o arquivo certo na seção "Assets", e não o zip do código)*
+## 👉 [CLIQUE AQUI PARA BAIXAR O PATCH](https://drive.google.com/drive/folders/1tZaQ_m_WpZqMZbarDMPhoiZ-NC2aJe5N?usp=sharing) 👈
+*(Temos duas versões: normal e undub. A 'Normal' possui áudio em inglês e a 'Undub' possui áudio em japonês, escolha a desejada.)*
 
 ---
 
