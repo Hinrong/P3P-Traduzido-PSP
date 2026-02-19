@@ -4,10 +4,10 @@
 
 Tradução BETA de **Persona 3 Portable** (PSP) para Português do Brasil, realizada pela **Equipe Atlantis**, feita de fã para fã, de forma 100% humana.
 
-A tradução **NÃO** está completa, você encontrará erros, bugs, crashes e outros durante a sua jogatina.
-Cerca de 99% do jogo está traduzido e apenas 40% revisado.
+A tradução **NÃO** está completa, então você ainda pode encontrar erros, bugs, ou crashes durante a sua jogatina. Porém, a tradução foi testada nas duas rotas do início ao fim, funcionando perfeitamente e em ótima qualidade até então.
+Cerca de 99% do jogo está traduzido e apenas 50% revisado.
 
-A tradução funciona no PSP, PPSSPP e no PS Vita via Adrenaline.
+A tradução funciona no PSP, PPSSPP e no PSVita via Adrenaline.
 
 ---
 
