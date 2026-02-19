@@ -21,16 +21,29 @@ A tradução funciona no PSP, PPSSPP e no PS Vita via Adrenaline.
 # 🛠️ Como Instalar
 
 ### Computador
-1. Baixe o **Release** mais recente no link acima.
-2. Execute o arquivo `Instalador.Traducao.P3P.exe`.
+1. Adquira uma ISO americana LIMPA de Persona 3 Portable.
+2. Clique no link acima para acessar o download.
+3. Baixe a versão que deseja: Normal (dublagem americana) ou Undub (dublagem japonesa).
+4. Extraía o .zip.
+5. Execute o instalador `DeltaPatcher.exe`.
+6. Em `Original file` selecione a sua ISO americana e em `XDelta patch` selecione o `p3p-ptbr-normal.xdelta` ou `p3p-ptbr-undub.xdelta`.
+7. Clique em `Apply patch` e espere o instalador aplicar o patch.
+8. Ao terminar de aplicar, basta colocar a ISO onde quer jogar e se divertir. Certifique de manter a ISO americana por perto caso encontre crashes.
 ---
 
 ### Android
-Se tiver problemas com o executável, siga estes passos:
 
-1. Baixe este [release](https://github.com/Hinrong/P3P-Traduzido/releases/tag/03012026) e extraia os arquivos.
-2. Copie o arquivo `dinput8.dll` e a pasta `update`.
-3. Cole-os na pasta raiz do seu jogo (onde fica o P3P.exe).
+1. Adquira uma ISO americana LIMPA de Persona 3 Portable.
+2. Clique no link acima para acessar o download.
+3. Baixe a versão que deseja: Normal (dublagem americana) ou Undub (dublagem japonesa).
+4. Baixe o aplicativo `ZArchiver` no seu celular e extraía o .zip.
+5. Baixe o aplicativo `UniPatcher` no seu celular.
+6. No aplicativo UniPatcher, vá até `Aplicar patch`.
+7. Em `Arquivo de patch` selecione o `p3p-ptbr-normal.xdelta` ou `p3p-ptbr-undub.xdelta`.
+8. Em `Arquivo ROM` selecione a sua ISO americana.
+9. Em `Rom após patch` basta selecionar onde quer salvar a rom traduzida.
+10. Clique no botão vermelho logo abaixo e espere o programa fazer seu trabalho.
+11. Ao terminar de aplicar, basta colocar a ISO onde quer jogar e se divertir. Certifique de manter a ISO americana por perto caso encontre crashes.
 
 ---
 
